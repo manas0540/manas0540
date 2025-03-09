@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manas Srivastava
 - 👀 I’m interested in Data Science and Analysis Domain
 - 🌱 I’m currently learning Machine learning and DSA 
-- 📫 connect me through mail: manas09sri@gmail.com & on LinkedIn Id: https://www.linkedin.com/in/manas-srivastava-28010125b/
+- 📫 connect me through mail: manas09sri@gmail.com & through LinkedIn Id: https://www.linkedin.com/in/manas-srivastava-28010125b/
 - ⚡ Fun fact: Protagonist type personality 
 
 <!---

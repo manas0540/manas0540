@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Manas Srivastava<br>📊 Data Analyst | Data Science & ML Enthusiast<br>🔍 I explore data to uncover insights and build intelligent, practical ML solutions<br>🌱 Continuously learning and solving real-world problems through data<br>📫 Reach me: manas09sri@gmail.com<br> | [LinkedIn](https://www.linkedin.com/in/manas-srivastava-28010125b/)<[br](https://www.linkedin.com/in/manas-srivastava-28010125b/)><br> 
+👋 Hi, I’m Manas Srivastava<br>📊 Data Analyst | Data Science & ML Enthusiast<br>🔍 I explore data to uncover insights and build intelligent, practical ML solutions<br>🌱 Continuously learning and solving real-world problems through data<br>📫 Reach me: manas09sri@gmail.com<br> | [LinkedIn](https://www.linkedin.com/in/manas-srivastava-28010125b/)
+
 ⚡ Fun fact: I resonate with a protagonist-type personality and enjoy structured, goal-driven problem-solving
 
 
